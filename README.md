@@ -1,4 +1,5 @@
-<img width="845" height="552" alt="image" src="https://github.com/user-attachments/assets/8446d498-89ba-4211-a368-f81b1671d966" /># Employee Attrition Predictor
+<img width="845" height="552" alt="image" src="https://github.com/user-attachments/assets/8446d498-89ba-4211-a368-f81b1671d966" />
+# Employee Attrition Predictor
 
 Predict whether an employee is likely to leave the company based on HR-related features.
 
